@@ -36,30 +36,6 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-    },
-    {
-      "ItemId": "99b71a0d-c6f5-4f56-b779-cc60c129503f",
-      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-    },
-    {
-      "ItemId": "c495a5ad-6bd4-426c-937d-233b44e5220c",
-      "PreviousItemId": "99b71a0d-c6f5-4f56-b779-cc60c129503f"
-    },
-    {
-      "ItemId": "8f2eab50-bfef-4b29-8d07-f8d8426dc49a",
-      "PreviousItemId": "c495a5ad-6bd4-426c-937d-233b44e5220c"
-    },
-    {
-      "ItemId": "51ebabf6-e4b6-424f-b57b-dec87b31d435",
-      "PreviousItemId": "8f2eab50-bfef-4b29-8d07-f8d8426dc49a"
-    },
-    {
-      "ItemId": "99b71a0d-c6f5-4f56-b779-cc60c129503f",
-      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-    },
-    {
-      "ItemId": "c495a5ad-6bd4-426c-937d-233b44e5220c",
-      "PreviousItemId": "99b71a0d-c6f5-4f56-b779-cc60c129503f"
     }
   ],
   "IconResourcesKeys": [],
